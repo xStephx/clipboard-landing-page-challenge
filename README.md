@@ -9,6 +9,8 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ![](./assets/design/desktop-preview.jpg)
 
+You can check it out live [here](https://xstephx.github.io/clipboard-landing-page-challenge/).
+
 ## My process
 
 ### Built with
