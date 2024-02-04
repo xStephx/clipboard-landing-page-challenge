@@ -61,12 +61,14 @@ body{
     color: white !important;
     font-size: var(--font-size) !important;
     border-bottom: 4px solid rgb(33, 157, 133) !important;
+    transition: all 0.3s ease-in-out !important;
 }
 .btn-custom-blue{
     background-color: var(--Light-Blue) !important;
     color: white !important;
     font-size: var(--font-size) !important;
     border-bottom: 4px solid rgb(83, 98, 217) !important;
+    transition: all 0.3s ease-in-out !important;
 }
 
 .btn-custom-green:hover,
@@ -97,6 +99,10 @@ body{
     text-decoration: none;
     color: var(--Dark-Grayish-Blue);
     font-weight: var(--font-wght-400);
+}
+
+.hover-green{
+    transition: all 0.3s ease-in-out !important;
 }
 .hover-green:hover{
     color: var(--Strong-Cyan) !important;
